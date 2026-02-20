@@ -86,6 +86,7 @@ Prediction + Confidence Score + Report
 ### 1️⃣ Clone the repository
 
 git clone https://github.com/vijayendravarma111/mri-brain-tumor-classification.git
+
 cd mri-brain-tumor-classification
 
 ### 2️⃣ Install dependencies
@@ -140,4 +141,5 @@ Machine Learning & AI Enthusiast
 ---
 
 If you found this project useful or interesting, feel free to star ⭐ the repository.
+
 
